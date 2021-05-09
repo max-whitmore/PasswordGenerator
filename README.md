@@ -1,7 +1,7 @@
 # PasswordGenerator
 A very simple JavaScript password generator app.
 
-Built with JavaScript, with the following features:
+The password generator has the following features:
 
 * Number of characters
 * Include Uppercase
