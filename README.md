@@ -1,4 +1,4 @@
-# PasswordGenerator
+# Password generator 
 A very simple JavaScript password generator app.
 
 The password generator has the following features:
